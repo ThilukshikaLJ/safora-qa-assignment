@@ -10,7 +10,7 @@ If you are viewing the main branch, please switch to **master** to see all files
 This project automates the Contact Us form testing on [Safora](https://safora.se/en/contact.html) using Selenium WebDriver with Python, following the Page Object Model (POM) design pattern.
 
 ## Project Structure
-
+```
 safora_automation/
 ├── pages/
 │   └── contact_page.py       # Page Object — Contact Us page elements and actions
@@ -19,7 +19,7 @@ safora_automation/
 ├── screenshots/              # Auto-generated test screenshots
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project documentation
-
+```
 
 ## Test Scenarios
 | Test | Description | Status |
