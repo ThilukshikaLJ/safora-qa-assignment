@@ -1,5 +1,11 @@
 # Safora QA Automation — Contact Form Testing
 
+## ⚠️ Important Note
+The code is in the **master** branch.
+If you are viewing the main branch, please switch to **master** to see all files.
+
+👉 Direct link: https://github.com/ThilukshikaLJ/safora-qa-assignment/tree/master
+
 ## Project Overview
 This project automates the Contact Us form testing on [Safora](https://safora.se/en/contact.html) using Selenium WebDriver with Python, following the Page Object Model (POM) design pattern.
 
